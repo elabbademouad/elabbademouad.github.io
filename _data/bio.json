@@ -9,9 +9,9 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "50000",
       "city": "Oujda",
-      "countryCode": "MA",
+      "countryCode": "MAROC",
       "region": "Oriental"
     },
     "profiles": [
@@ -24,22 +24,12 @@
         "network": "linkedin",
         "username": "mouadelabbade",
         "url": "https://www.linkedin.com/in/mouadelabbade/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Developement",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -58,26 +48,35 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages de programmation",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "C#",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Typescript"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Outils/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Team Fondation Server",
+        "Visual Studio",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Jira",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "Framework et technoligies",
+      "level": "",
+      "keywords": [
+        "ASP MVC -ASP Core",
+        "WPF",
+        "WCF",
+        "UWP",
+        "ReactJs",
+        "Angular"
       ]
     }
   ],
