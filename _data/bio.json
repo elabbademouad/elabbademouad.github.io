@@ -3,16 +3,16 @@
     "name": "Mouad El abbade",
     "label": "Student",
     "picture": "https://media.licdn.com/dms/image/C4E03AQFCbpaZX6xJcg/profile-displayphoto-shrink_200_200/0?e=1528455600&v=beta&t=0W4HHTq6eek3U5-1bA3_SfBtEXBk_R3THwa_ToMGIvU",
-    "email": "molly@hawaii.edu",
+    "email": "elabbademouad@gmail.com",
     "phone": "+212-602-668546",
     "website": "https://elabbademouad.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "city": "Oujda",
+      "countryCode": "MA",
+      "region": "Oriental"
     },
     "profiles": [
       {
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "elabbademouad",
-        "url": "http://linkedin.com/in/elabbademouad"
+        "username": "mouadelabbade",
+        "url": "https://www.linkedin.com/in/mouadelabbade/"
       },
       {
         "network": "twitter",
