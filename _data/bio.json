@@ -26,7 +26,7 @@
         "url": "https://www.linkedin.com/in/mouadelabbade/"
       }
     ]
-  },
+    },
   "interests": [
     {
       "name": "JavaScript Technologie",
@@ -115,8 +115,7 @@
         "Jira",
         "Confluence"
       ]
-    },
-   
+    }
   ],
   "education": [
     {
@@ -131,7 +130,7 @@
       "website": "http://www.sqli.com/",
       "startDate": "2017-06-01",
       "endDate": "Present",
-    }
+    },
     "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
