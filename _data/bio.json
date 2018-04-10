@@ -6,7 +6,7 @@
     "email": "elabbademouad@gmail.com",
     "phone": "+212-602-668546",
     "website": "https://elabbademouad.github.io",
-    "summary": "Je suis un developpeur .NET chez <a target='_blank' href='http://www.sqli.com/'>SQLI</a> trés motivé par le domaine .",
+    "summary": "Je suis un développeur .NET chez  <a target='_blank' href='http://www.sqli.com/'>SQLI</a> depuis juin 2017.",
     "location": {
       "address": "",
       "postalCode": "50000",
@@ -29,25 +29,11 @@
   },
   "interests": [
     {
-      "name": "Web Developement",
+      "name": "JavaScript Technologie",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "Front end Technoligie",
-      "keywords": ["ReactJs",
-                   "Angular",
-                   "Vue.js"
-      ]
-    },
-    {
-      "name": "Back end Technologie",
-      "keywords": [
-        ".NET",
-        "ASP MVC",
-        ".Net Core"
+       "ReactJs",
+       "Angular",
+       "Vue.js"
       ]
     }
   ],
@@ -62,112 +48,94 @@
       ]
     },
     {
+      "name": "Web FrontEnd",
+      "level": "",
+      "keywords": [
+        "ReactJs",
+        "Angular",
+        "Vue.js",
+        "JQuery",
+        "Bootstrap"
+        "HTML5",
+        "CSS3",
+        "XML"
+      ]
+    },
+    {
+      "name": "Web BackEnd",
+      "level": "",
+      "keywords": [
+        "ASP MVC",
+        "ASP WebForm",
+        "ASP Core",
+        "WCF",
+        "Entity Framework",
+        "Entity Framework Core",
+        "ADO .NET"
+      ]
+    },
+    {
+      "name": "Desktop",
+      "level": "",
+      "keywords": [
+        "WindowsForm",
+        "WPF",
+        "Windows universel"
+        "Console application",
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "",
+      "keywords": [
+        "Xamarin",
+        "React-Native"
+      ]
+    },
+    {
+      "name": "Base de données",
+      "level": "",
+      "keywords": [
+        "Microsoft SQL Server",
+        "Oracle",
+        "MySql",
+        "SQLite",
+        "Access"
+        
+      ]
+    },
+    {
       "name": "Outils/OS",
       "level": "",
       "keywords": [
-        "Team Fondation Server",
         "Visual Studio",
+        "Team Fondation Server",
+        "Visual Studio Code",
         "Git/GitHub",
         "Jira",
         "Confluence"
       ]
     },
+   
+  ],
+  "Certification": [
     {
-      "name": "Framework et technoligies",
-      "level": "",
-      "keywords": [
-        "ASP MVC -ASP Core",
-        "WPF",
-        "WCF",
-        "UWP",
-        "ReactJs",
-        "Angular"
-      ]
+      "institution": "ISTA BAB TIZIMI Meknès",
+      "area": "Technicien spécialisé en  techniques de développement informatique"
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "institution": "ISTA BAB TIZIMI Meknès",
+      "area": "Technicien spécialisé en  techniques de développement informatique"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "SQLI",
+      "position": ".NET Developer",
+      "website": "http://www.sqli.com/",
+      "startDate": "2017-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
