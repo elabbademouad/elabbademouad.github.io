@@ -1,181 +1,181 @@
 {
-  "basics": {
-    "name": "Mouad El abbade",
-    "label": "Full Stack Developer",
-    "picture": "https://media.licdn.com/dms/image/C4E03AQFCbpaZX6xJcg/profile-displayphoto-shrink_200_200/0?e=1528455600&v=beta&t=0W4HHTq6eek3U5-1bA3_SfBtEXBk_R3THwa_ToMGIvU",
-    "email": "elabbademouad@gmail.com",
-    "phone": "+212-602-668546",
-    "website": "https://elabbademouad.github.io",
-    "summary": "Je suis un développeur .NET chez  <a target='_blank' href='http://www.sqli.com/'>SQLI</a> depuis juin 2017.",
-    "location": {
-      "address": "",
-      "postalCode": "50000",
-      "city": "Oujda",
-      "countryCode": "MAROC",
-      "region": "Oriental"
-    },
-    "profiles": [
+    "basics": {
+                "name": "Mouad El abbade",
+                "label": "Full Stack Developer",
+                "picture": "https://media.licdn.com/dms/image/C4E03AQFCbpaZX6xJcg/profile-displayphoto-shrink_200_200/0?e=1528455600&v=beta&t=0W4HHTq6eek3U5-1bA3_SfBtEXBk_R3THwa_ToMGIvU",
+                "email": "elabbademouad@gmail.com",
+                "phone": "+212-602-668546",
+                "website": "https://elabbademouad.github.io",
+                "summary": "Je suis un développeur .NET chez  <a target='_blank' href='http://www.sqli.com/'>SQLI</a> depuis juin 2017.",
+                "location": {
+                                "address": "",
+                                "postalCode": "50000",
+                                "city": "Oujda",
+                                "countryCode": "MAROC",
+                                "region": "Oriental"
+                            },
+                "profiles": [
+                                {
+                                "network": "github",
+                                "username": "elabbademouad",
+                                "url": "http://github.com/elabbademouad"
+                                },
+                                {
+                                "network": "linkedin",
+                                "username": "mouadelabbade",
+                                "url": "https://www.linkedin.com/in/mouadelabbade/"
+                                }
+                            ]
+                            },
+    "interests": [
       {
-        "network": "github",
-        "username": "elabbademouad",
-        "url": "http://github.com/elabbademouad"
+        "name": "JavaScript Technologie",
+        "keywords": [
+         "ReactJs",
+         "Angular",
+         "Vue.js"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages de programmation",
+        "level": "",
+        "keywords": [
+          "C#",
+          "Javascript",
+          "Typescript"
+        ]
       },
       {
-        "network": "linkedin",
-        "username": "mouadelabbade",
-        "url": "https://www.linkedin.com/in/mouadelabbade/"
+        "name": "Web FrontEnd",
+        "level": "",
+        "keywords": [
+          "ReactJs",
+          "Angular",
+          "Vue.js",
+          "JQuery",
+          "Bootstrap",
+          "HTML5",
+          "CSS3",
+          "XML"
+        ]
+      },
+      {
+        "name": "Web BackEnd",
+        "level": "",
+        "keywords": [
+          "ASP MVC",
+          "ASP WebForm",
+          "ASP Core",
+          "WCF",
+          "Entity Framework",
+          "Entity Framework Core",
+          "ADO .NET"
+        ]
+      },
+      {
+        "name": "Desktop",
+        "level": "",
+        "keywords": [
+          "WindowsForm",
+          "WPF",
+          "Windows universel",
+          "Console application"
+        ]
+      },
+      {
+        "name": "Mobile",
+        "level": "",
+        "keywords": [
+          "Xamarin",
+          "React-Native"
+        ]
+      },
+      {
+        "name": "Base de données",
+        "level": "",
+        "keywords": [
+          "Microsoft SQL Server",
+          "Oracle",
+          "MySql",
+          "SQLite",
+          "Access"
+          
+        ]
+      },
+      {
+        "name": "Outils/OS",
+        "level": "",
+        "keywords": [
+          "Visual Studio",
+          "Team Fondation Server",
+          "Visual Studio Code",
+          "Git/GitHub",
+          "Jira",
+          "Confluence"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "ISTA BAB TIZIMI Meknès",
+        "area": "Technicien spécialisé en  techniques de développement informatique"
+      }
+    ],
+    "work": [
+      {
+        "company": "SQLI",
+        "position": ".NET Developer",
+        "website": "http://www.sqli.com/",
+        "startDate": "2017-06-01",
+        "endDate": "Present"
+      }],
+      "volunteer" : [
+      {
+        "organization": "Center for Renewable Energy and Island Sustainability",
+        "website": "http://manoa.hawaii.edu/reis",
+        "position": "Software Developer",
+        "startDate": "2016-01-01",
+        "endDate": "Present",
+        "summary": "Lead developer for weather sensing project",
+        "highlights": [
+          "Design firmware for distributed weather sensor network",
+          "Maintain custom data collection and storage infrastructure"
+        ]
+      },
+      {
+        "organization": "",
+        "website": "",
+        "position": "Professional organization involvement",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": [
+          "Chair, ACM Manoa, 2016-Present",
+          "Member, IEEE Student Branch, 2014-Present",
+          "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "B+ Scholarship",
+        "date": "2013-Present",
+        "awarder": "State of Hawaii",
+        "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      },
+      {
+        "title": "First place",
+        "date": "2015",
+        "awarder": "University of Hawaii Micromouse Competition",
+        "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request",
+        "reference": ""
       }
     ]
-    },
-  "interests": [
-    {
-      "name": "JavaScript Technologie",
-      "keywords": [
-       "ReactJs",
-       "Angular",
-       "Vue.js"
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages de programmation",
-      "level": "",
-      "keywords": [
-        "C#",
-        "Javascript",
-        "Typescript"
-      ]
-    },
-    {
-      "name": "Web FrontEnd",
-      "level": "",
-      "keywords": [
-        "ReactJs",
-        "Angular",
-        "Vue.js",
-        "JQuery",
-        "Bootstrap"
-        "HTML5",
-        "CSS3",
-        "XML"
-      ]
-    },
-    {
-      "name": "Web BackEnd",
-      "level": "",
-      "keywords": [
-        "ASP MVC",
-        "ASP WebForm",
-        "ASP Core",
-        "WCF",
-        "Entity Framework",
-        "Entity Framework Core",
-        "ADO .NET"
-      ]
-    },
-    {
-      "name": "Desktop",
-      "level": "",
-      "keywords": [
-        "WindowsForm",
-        "WPF",
-        "Windows universel"
-        "Console application",
-      ]
-    },
-    {
-      "name": "Mobile",
-      "level": "",
-      "keywords": [
-        "Xamarin",
-        "React-Native"
-      ]
-    },
-    {
-      "name": "Base de données",
-      "level": "",
-      "keywords": [
-        "Microsoft SQL Server",
-        "Oracle",
-        "MySql",
-        "SQLite",
-        "Access"
-        
-      ]
-    },
-    {
-      "name": "Outils/OS",
-      "level": "",
-      "keywords": [
-        "Visual Studio",
-        "Team Fondation Server",
-        "Visual Studio Code",
-        "Git/GitHub",
-        "Jira",
-        "Confluence"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "ISTA BAB TIZIMI Meknès",
-      "area": "Technicien spécialisé en  techniques de développement informatique"
-    }
-  ],
-  "work": [
-    {
-      "company": "SQLI",
-      "position": ".NET Developer",
-      "website": "http://www.sqli.com/",
-      "startDate": "2017-06-01",
-      "endDate": "Present",
-    },
-    "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+  }
