@@ -136,7 +136,10 @@
     "education": [
       {
         "institution": "ISTA BAB TIZIMI Meknès",
-        "area": "Technicien spécialisé en  techniques de développement informatique"
+        "area": "Technicien spécialisé en  techniques de développement informatique",
+        "studyType":"TS",
+        "startDate":"2014-10-09",
+        "endDate":"2016-20-06"
       }
     ],
     "Certificat": [
@@ -148,7 +151,7 @@
     "work": [
       {
         "company": "SQLI",
-        "position": ".NET Developer",
+        "position": "Développeur .NET",
         "website": "http://www.sqli.com/",
         "startDate": "2017-06-01",
         "endDate": "Present"
