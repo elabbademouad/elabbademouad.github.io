@@ -37,6 +37,22 @@
         ]
       }
     ],
+    "certifications":[
+      {
+        "name": "70-486",
+        "level": "",
+        "keywords": [
+          "Web developement"
+        ]
+      },
+      {
+        "name": "70-470",
+        "level": "",
+        "keywords": [
+          "C# Programming"
+        ]
+      }
+    ],
     "skills": [
       {
         "name": "Languages de programmation",
