@@ -39,17 +39,17 @@
     ],
     "certifications":[
       {
-        "name": "70-486",
+        "name": "Microsoft 70-483 ",
         "level": "",
         "keywords": [
-          "Web developement"
+          "Programming in C#"
         ]
       },
       {
-        "name": "70-470",
+        "name": "Microsoft 70-480 ",
         "level": "",
         "keywords": [
-          "C# Programming"
+          "Programming in HTML5 with JavaScript and CSS3"
         ]
       }
     ],
