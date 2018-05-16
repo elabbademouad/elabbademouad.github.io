@@ -44,6 +44,13 @@
         "keywords": [
           "Programming in C#"
         ]
+      },
+      {
+        "name": "Microsoft 70-480 ",
+        "level": "",
+        "keywords": [
+          "Programming in HTML5 with JavaScript and CSS3"
+        ]
       }
     ],
     "skills": [
@@ -133,12 +140,6 @@
         "studyType":"TS",
         "startDate":"2014-10-09",
         "endDate":"2016-20-06"
-      }
-    ],
-    "Certificat": [
-      {
-        "institution": "ISTA BAB TIZIMI Meknès",
-        "area": "Technicien spécialisé en  techniques de développement informatique"
       }
     ],
     "work": [
